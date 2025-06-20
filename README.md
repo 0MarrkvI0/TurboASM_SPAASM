@@ -1,7 +1,7 @@
 # Shortest Word Line Printer (TASM / DOS) - SPAASM FIIT STU LS 2024/25
 
 **Author:** Martin Kvietok  
-**Subject:** System Programming and Assemblers
+**Subject:** System Programming and Assemblers  
 **Faculty:** Fakulta informatiky a informačných technológií, STU Bratislava
 
 ---
